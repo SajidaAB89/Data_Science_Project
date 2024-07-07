@@ -14,13 +14,6 @@ The Titanic Survival Prediction Model aims to predict whether a passenger surviv
   
 
 
-- Load the dataset
-- Preprocess the data.
-- Train the model using a RandomForestClassifier.
-- Save the model using joblib.
-- The training script can be found in model.py.
-
-
 ### Training the Model
 
 The training script processes the Titanic dataset, trains a RandomForestClassifier, and saves the trained model using joblib. The model can then be used to make predictions on new data.
