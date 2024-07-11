@@ -112,7 +112,7 @@ The dataset used for this project is IMDb Movies India, which contains informati
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License, Version 2.0. See the LICENSE file for details.
 
 ## Acknowledgments
 - Thanks to Rover Codes for the internship opportunity.
